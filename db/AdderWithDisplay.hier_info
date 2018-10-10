@@ -1,0 +1,31 @@
+|AdderWithDisplay
+HEX0[0] <= inst43.DB_MAX_OUTPUT_PORT_TYPE
+HEX0[1] <= inst44.DB_MAX_OUTPUT_PORT_TYPE
+HEX0[2] <= inst45.DB_MAX_OUTPUT_PORT_TYPE
+HEX0[3] <= inst46.DB_MAX_OUTPUT_PORT_TYPE
+HEX0[4] <= inst47.DB_MAX_OUTPUT_PORT_TYPE
+HEX0[5] <= inst48.DB_MAX_OUTPUT_PORT_TYPE
+HEX0[6] <= inst49.DB_MAX_OUTPUT_PORT_TYPE
+SW[0] => inst6.IN1
+SW[0] => inst5.IN1
+SW[0] => inst1.IN1
+SW[1] => inst5.IN0
+SW[1] => inst4.IN0
+SW[1] => inst.IN0
+SW[2] => inst11.IN0
+SW[2] => inst10.IN0
+SW[2] => inst9.IN0
+SW[3] => inst15.IN0
+SW[3] => inst17.IN0
+SW[3] => inst16.IN0
+SW[4] => inst6.IN0
+SW[4] => inst4.IN1
+SW[4] => inst.IN1
+SW[5] => inst12.IN0
+SW[5] => inst10.IN1
+SW[5] => inst9.IN1
+SW[6] => inst15.IN1
+SW[6] => inst18.IN0
+SW[6] => inst16.IN1
+
+
