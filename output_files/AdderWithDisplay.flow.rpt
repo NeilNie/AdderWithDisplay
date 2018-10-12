@@ -1,5 +1,5 @@
 Flow report for AdderWithDisplay
-Wed Oct 10 11:37:27 2018
+Fri Oct 12 06:24:55 2018
 Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
 
 
@@ -40,18 +40,18 @@ refer to the applicable agreement for further details.
 +----------------------------------------------------------------------------------+
 ; Flow Summary                                                                     ;
 +------------------------------------+---------------------------------------------+
-; Flow Status                        ; Successful - Wed Oct 10 11:37:22 2018       ;
+; Flow Status                        ; Successful - Fri Oct 12 06:24:51 2018       ;
 ; Quartus Prime Version              ; 18.1.0 Build 625 09/12/2018 SJ Lite Edition ;
 ; Revision Name                      ; AdderWithDisplay                            ;
 ; Top-level Entity Name              ; AdderWithDisplay                            ;
 ; Family                             ; Cyclone IV E                                ;
 ; Device                             ; EP4CE115F29C7                               ;
 ; Timing Models                      ; Final                                       ;
-; Total logic elements               ; 14 / 114,480 ( < 1 % )                      ;
-;     Total combinational functions  ; 14 / 114,480 ( < 1 % )                      ;
+; Total logic elements               ; 16 / 114,480 ( < 1 % )                      ;
+;     Total combinational functions  ; 16 / 114,480 ( < 1 % )                      ;
 ;     Dedicated logic registers      ; 0 / 114,480 ( 0 % )                         ;
 ; Total registers                    ; 0                                           ;
-; Total pins                         ; 14 / 529 ( 3 % )                            ;
+; Total pins                         ; 17 / 529 ( 3 % )                            ;
 ; Total virtual pins                 ; 0                                           ;
 ; Total memory bits                  ; 0 / 3,981,312 ( 0 % )                       ;
 ; Embedded Multiplier 9-bit elements ; 0 / 532 ( 0 % )                             ;
@@ -64,7 +64,7 @@ refer to the applicable agreement for further details.
 +-------------------+---------------------+
 ; Option            ; Setting             ;
 +-------------------+---------------------+
-; Start date & time ; 10/10/2018 11:35:50 ;
+; Start date & time ; 10/12/2018 06:24:03 ;
 ; Main task         ; Compilation         ;
 ; Revision Name     ; AdderWithDisplay    ;
 +-------------------+---------------------+
@@ -75,7 +75,7 @@ refer to the applicable agreement for further details.
 +-------------------------------------+----------------------------------------+---------------+-------------+------------+
 ; Assignment Name                     ; Value                                  ; Default Value ; Entity Name ; Section Id ;
 +-------------------------------------+----------------------------------------+---------------+-------------+------------+
-; COMPILER_SIGNATURE_ID               ; 8796754010459.153919655006548          ; --            ; --          ; --         ;
+; COMPILER_SIGNATURE_ID               ; 8796754010459.153935064306660          ; --            ; --          ; --         ;
 ; MAX_CORE_JUNCTION_TEMP              ; 85                                     ; --            ; --          ; --         ;
 ; MIN_CORE_JUNCTION_TEMP              ; 0                                      ; --            ; --          ; --         ;
 ; PARTITION_COLOR                     ; -- (Not supported for targeted family) ; --            ; --          ; Top        ;
@@ -90,11 +90,11 @@ refer to the applicable agreement for further details.
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
 ; Module Name          ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
-; Analysis & Synthesis ; 00:01:06     ; 1.0                     ; 4739 MB             ; 00:00:57                           ;
-; Fitter               ; 00:00:18     ; 1.0                     ; 5236 MB             ; 00:00:17                           ;
-; Assembler            ; 00:00:05     ; 1.0                     ; 4694 MB             ; 00:00:05                           ;
-; Timing Analyzer      ; 00:00:04     ; 1.0                     ; 4809 MB             ; 00:00:03                           ;
-; Total                ; 00:01:33     ; --                      ; --                  ; 00:01:22                           ;
+; Analysis & Synthesis ; 00:00:27     ; 1.0                     ; 4735 MB             ; 00:00:25                           ;
+; Fitter               ; 00:00:14     ; 1.0                     ; 5238 MB             ; 00:00:14                           ;
+; Assembler            ; 00:00:04     ; 1.0                     ; 4692 MB             ; 00:00:04                           ;
+; Timing Analyzer      ; 00:00:03     ; 1.0                     ; 4805 MB             ; 00:00:02                           ;
+; Total                ; 00:00:48     ; --                      ; --                  ; 00:00:45                           ;
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
 
 

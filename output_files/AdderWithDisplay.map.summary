@@ -1,13 +1,13 @@
-Analysis & Synthesis Status : Successful - Wed Oct 10 11:36:55 2018
+Analysis & Synthesis Status : Successful - Fri Oct 12 06:24:30 2018
 Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
 Revision Name : AdderWithDisplay
 Top-level Entity Name : AdderWithDisplay
 Family : Cyclone IV E
-Total logic elements : 14
-    Total combinational functions : 14
+Total logic elements : 16
+    Total combinational functions : 16
     Dedicated logic registers : 0
 Total registers : 0
-Total pins : 14
+Total pins : 17
 Total virtual pins : 0
 Total memory bits : 0
 Embedded Multiplier 9-bit elements : 0
